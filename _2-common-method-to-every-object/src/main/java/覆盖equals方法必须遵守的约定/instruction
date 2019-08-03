@@ -1,0 +1,6 @@
+覆盖equals方法必须遵守通用约定：
+  1、自反性  对于任何非null的引用值x x.equals(x)必须返回true
+  2、对称性  对于任何非null的引用x和y 当且仅当x.equal(y)返回true时，y.equals(x)必须返回true
+  3、传递性  对于任何非null的引用x、y和z  如果x.equals(y)返回true 且y.equals(z)返回true 那么x.equals(z)必须返回true
+  4、一致性  对于任何非null的引用x和y  只要比较对象信息不被修改  多少调用 返回结果一致返回true或false
+  5、 对于任何非null的引用x x.equals(null) 必须返回false

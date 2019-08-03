@@ -1,0 +1,3 @@
+Object 的非final方法
+   equals toString  clone finalize方法  覆盖时有明确的约定
+
