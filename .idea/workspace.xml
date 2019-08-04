@@ -2,10 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="792fc403-56c8-424f-b6f6-fcf4588ed65a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3-class-interface/src/main/java/优先考虑静态成员类/instruction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3-class-interface/src/main/java/在公有类中使用访问方法而非公有域/TIme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3-class-interface/src/main/java/复合优先继承/ForwardingSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3-class-interface/src/main/java/复合优先继承/InstrumentedHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3-class-interface/src/main/java/复合优先继承/InstrumentedSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3-class-interface/src/main/java/复合优先继承/instruction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3-class-interface/src/main/java/接口只用于定义类型/instruction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3-class-interface/src/main/java/用函数对象表示策略/Host.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3-class-interface/src/main/java/用函数对象表示策略/StringLengthComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3-class-interface/src/main/java/类层次优于标签类/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3-class-interface/src/main/java/类层次优于标签类/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3-class-interface/src/main/java/类层次优于标签类/FigureType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3-class-interface/src/main/java/类层次优于标签类/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3-class-interface/src/main/java/类层次优于标签类/instruction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_3-class-interface/src/main/java/要么为继承而设计提供文档说明要么紧张继承/instruction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_4-generic/_4-generic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_4-generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_4-generic/src/main/java/列表优于数组/ArrayListAndArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_4-generic/src/main/java/列表优于数组/instruction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_4-generic/src/main/java/消除非受检警告/Venery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_2-common-method-to-every-object/src/main/java/覆盖equals方法时总要覆盖hashcode方法/instruction" beforeDir="false" afterPath="$PROJECT_DIR$/_2-common-method-to-every-object/src/main/java/覆盖equals方法时总要覆盖hashcode方法/instruction" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_3-class-interface/src/main/java/使可变性最小化/Complex.java" beforeDir="false" afterPath="$PROJECT_DIR$/_3-class-interface/src/main/java/使可变性最小化/Complex.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_3-class-interface/src/main/java/使可变性最小化/instruction" beforeDir="false" afterPath="$PROJECT_DIR$/_3-class-interface/src/main/java/使可变性最小化/instruction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_3-class-interface/src/main/java/使类和成员的可访问性最小/intruction" beforeDir="false" afterPath="$PROJECT_DIR$/_3-class-interface/src/main/java/使类和成员的可访问性最小/intruction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_3-class-interface/target/classes/使类和成员的可访问性最小/EverythingIsTrue.class" beforeDir="false" afterPath="$PROJECT_DIR$/_3-class-interface/target/classes/使类和成员的可访问性最小/EverythingIsTrue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_3-class-interface/target/classes/使类和成员的可访问性最小/FinalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/_3-class-interface/target/classes/使类和成员的可访问性最小/FinalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -13,6 +39,7 @@
     <ignored path="$PROJECT_DIR$/_1-create-destory-object/target/" />
     <ignored path="$PROJECT_DIR$/_2-common-method-to-every-object/target/" />
     <ignored path="$PROJECT_DIR$/_3-class-interface/target/" />
+    <ignored path="$PROJECT_DIR$/_4-generic/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,56 +52,113 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/使可变性最小化/Complex.java">
+        <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/类层次优于标签类/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="300">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
               <folding>
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#359#360#0" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
-                <element signature="e#455#456#0" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
-                <element signature="e#549#550#0" expanded="true" />
-                <element signature="e#600#601#0" expanded="true" />
-                <element signature="e#1368#1369#0" expanded="true" />
-                <element signature="e#1408#1409#0" expanded="true" />
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#119#120#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/programs/jdk1.8/src.zip!/java/lang/Integer.java">
+        <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/私有构造器或者枚举类型强化Singleton属性/lazysingleton/StaticInnerClassLazySingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="1055" column="26" selection-start-line="1055" selection-start-column="26" selection-end-line="1055" selection-end-column="26" />
+            <state relative-caret-position="225">
+              <caret line="9" column="52" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="52" />
               <folding>
-                <element signature="e#32532#32533#0" expanded="true" />
-                <element signature="e#32566#32567#0" expanded="true" />
-                <element signature="e#34168#34169#0" expanded="true" />
-                <element signature="e#34202#34203#0" expanded="true" />
-                <element signature="e#37816#37817#0" expanded="true" />
-                <element signature="e#37859#37860#0" expanded="true" />
-                <element signature="e#47036#47037#0" expanded="true" />
-                <element signature="e#47092#47093#0" expanded="true" />
-                <element signature="e#47615#47616#0" expanded="true" />
-                <element signature="e#47675#47676#0" expanded="true" />
-                <element signature="e#48444#48445#0" expanded="true" />
-                <element signature="e#48491#48492#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#431#432#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/用函数对象表示策略/StringLengthComparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/用函数对象表示策略/Host.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="71" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/优先考虑静态成员类/instruction">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_4-generic/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_4-generic/src/main/java/消除非受检警告/Venery.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#218#248#0" expanded="true" />
+                <element signature="e#275#305#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/使可变性最小化/instruction">
+        <entry file="file://$PROJECT_DIR$/_4-generic/src/main/java/列表优于数组/instruction">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="250">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_4-generic/src/main/java/列表优于数组/ArrayListAndArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/programs/jdk1.8/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="406" column="34" lean-forward="true" selection-start-line="406" selection-start-column="34" selection-end-line="406" selection-end-column="34" />
+              <folding>
+                <element signature="e#13713#13714#0" expanded="true" />
+                <element signature="e#13768#13769#0" expanded="true" />
+                <element signature="e#15110#15140#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,19 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1-create-destory-object/src/main/java/StaticFactory.java" />
-        <option value="$PROJECT_DIR$/1-create-destory-object/src/main/java/ServiceProviderFrameWork/Provider.java" />
-        <option value="$PROJECT_DIR$/1-create-destory-object/src/main/java/ServiceProviderFrameWork/Service.java" />
-        <option value="$PROJECT_DIR$/1-create-destory-object/src/main/java/ServiceProviderFrameWork/Services.java" />
-        <option value="$PROJECT_DIR$/_1-create-destory-object/src/main/java/StaticFactory.java" />
-        <option value="$PROJECT_DIR$/_1-create-destory-object/src/main/java/mutileConstructorParameter/_NutritionFacts.java" />
-        <option value="$PROJECT_DIR$/_1-create-destory-object/src/main/java/mutileConstructorParameter/NutritionFacts.java" />
-        <option value="$PROJECT_DIR$/_1-create-destory-object/src/main/java/mutileConstructorParameter/Builder.java" />
-        <option value="$PROJECT_DIR$/_1-create-destory-object/src/main/java/mutileConstructorParameter/__NutritionFacts.java" />
-        <option value="$PROJECT_DIR$/_1-create-destory-object/src/main/java/privateEnumSingleton/Elvis.java" />
-        <option value="$PROJECT_DIR$/_1-create-destory-object/src/main/java/privateEnumSingleton/_Elvis.java" />
-        <option value="$PROJECT_DIR$/_1-create-destory-object/src/main/java/privateEnumSingleton/__Elvis.java" />
-        <option value="$PROJECT_DIR$/_1-create-destory-object/src/main/java/privateEnumSingleton/___Elvis.java" />
         <option value="$PROJECT_DIR$/_1-create-destory-object/src/main/java/privateEnumSingleton/singleton/LazySingleton.java" />
         <option value="$PROJECT_DIR$/_1-create-destory-object/src/main/java/privateEnumSingleton/singleton/_LazySingleton.java" />
         <option value="$PROJECT_DIR$/_1-create-destory-object/src/main/java/privateEnumSingleton/singleton/__LazySingleton.java" />
@@ -141,12 +212,31 @@
         <option value="$PROJECT_DIR$/_2-common-method-to-every-object/src/main/java/考虑实现Comparable接口/instruction" />
         <option value="$PROJECT_DIR$/_2-common-method-to-every-object/src/main/java/考虑实现Comparable接口/Person.java" />
         <option value="$PROJECT_DIR$/_2-common-method-to-every-object/src/main/java/考虑实现Comparable接口/CompareComparatorAndComparableTest.java" />
-        <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/使类和成员的可访问性最小/intruction" />
         <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/使类和成员的可访问性最小/EverythingIsTrue.java" />
         <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/使类和成员的可访问性最小/FinalTest.java" />
         <option value="$PROJECT_DIR$/_2-common-method-to-every-object/src/main/java/覆盖equals方法时总要覆盖hashcode方法/instruction" />
-        <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/使可变性最小化/instruction" />
         <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/使可变性最小化/Complex.java" />
+        <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/在公有类中使用访问方法而非公有域/TIme.java" />
+        <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/使类和成员的可访问性最小/intruction" />
+        <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/使可变性最小化/instruction" />
+        <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/复合优先继承/ForwardingSet.java" />
+        <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/复合优先继承/InstrumentedHashSet.java" />
+        <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/复合优先继承/instruction" />
+        <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/复合优先继承/InstrumentedSet.java" />
+        <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/要么为继承而设计提供文档说明要么紧张继承/instruction" />
+        <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/接口只用于定义类型/instruction" />
+        <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/类层次优于标签类/instruction" />
+        <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/类层次优于标签类/Figure.java" />
+        <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/类层次优于标签类/Circle.java" />
+        <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/类层次优于标签类/RECTANGLE.java" />
+        <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/类层次优于标签类/FigureType.java" />
+        <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/用函数对象表示策略/StringLengthComparator.java" />
+        <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/用函数对象表示策略/Host.java" />
+        <option value="$PROJECT_DIR$/_3-class-interface/src/main/java/优先考虑静态成员类/instruction" />
+        <option value="$PROJECT_DIR$/_4-generic/src/main/java/消除非受检警告/Venery.java" />
+        <option value="$PROJECT_DIR$/_4-generic/src/main/java/列表优于数组/Test1.java" />
+        <option value="$PROJECT_DIR$/_4-generic/src/main/java/列表优于数组/ArrayListAndArray.java" />
+        <option value="$PROJECT_DIR$/_4-generic/src/main/java/列表优于数组/instruction" />
       </list>
     </option>
   </component>
@@ -173,9 +263,8 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="30" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
     <option name="width" value="1890" />
     <option name="height" value="960" />
   </component>
@@ -196,60 +285,25 @@
             <path>
               <item name="effective-java-in-springboot" type="b2602c69:ProjectViewProjectNode" />
               <item name="effective-java-in-springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="_2-common-method-to-every-object" type="462c0819:PsiDirectoryNode" />
+              <item name="_4-generic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="effective-java-in-springboot" type="b2602c69:ProjectViewProjectNode" />
               <item name="effective-java-in-springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="_2-common-method-to-every-object" type="462c0819:PsiDirectoryNode" />
+              <item name="_4-generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="effective-java-in-springboot" type="b2602c69:ProjectViewProjectNode" />
               <item name="effective-java-in-springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="_2-common-method-to-every-object" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="effective-java-in-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="effective-java-in-springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="_2-common-method-to-every-object" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="effective-java-in-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="effective-java-in-springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="_2-common-method-to-every-object" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="覆盖equals方法时总要覆盖hashcode方法" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="effective-java-in-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="effective-java-in-springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="_3-class-interface" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="effective-java-in-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="effective-java-in-springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="_3-class-interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="effective-java-in-springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="effective-java-in-springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="_3-class-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="_4-generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="effective-java-in-springboot" type="b2602c69:ProjectViewProjectNode" />
               <item name="effective-java-in-springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="_3-class-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="_4-generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -257,11 +311,11 @@
             <path>
               <item name="effective-java-in-springboot" type="b2602c69:ProjectViewProjectNode" />
               <item name="effective-java-in-springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="_3-class-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="_4-generic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="使可变性最小化" type="462c0819:PsiDirectoryNode" />
+              <item name="列表优于数组" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -276,6 +330,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -302,7 +357,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EverythingIsTrue">
+  <component name="RunManager" selected="Application.InstrumentedSet">
     <configuration name="CompareComparatorAndComparableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="考虑实现Comparable接口.CompareComparatorAndComparableTest" />
       <module name="_2-common-method-to-every-object" />
@@ -342,12 +397,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="覆盖equals方法时总要覆盖hashcode方法.PhoneNumber" />
-      <module name="_2-common-method-to-every-object" />
+    <configuration name="InstrumentedHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="复合优先继承.InstrumentedHashSet" />
+      <module name="_3-class-interface" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="覆盖equals方法时总要覆盖hashcode方法.*" />
+          <option name="PATTERN" value="复合优先继承.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -355,12 +410,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="考虑实现Comparable接口.WordList" />
-      <module name="_2-common-method-to-every-object" />
+    <configuration name="InstrumentedSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="复合优先继承.InstrumentedSet" />
+      <module name="_3-class-interface" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="考虑实现Comparable接口.*" />
+          <option name="PATTERN" value="复合优先继承.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -370,11 +425,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InstrumentedSet" />
+        <item itemvalue="Application.InstrumentedHashSet" />
         <item itemvalue="Application.EverythingIsTrue" />
         <item itemvalue="Application.FinalTest" />
         <item itemvalue="Application.CompareComparatorAndComparableTest" />
-        <item itemvalue="Application.WordList" />
-        <item itemvalue="Application.PhoneNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -389,18 +444,27 @@
       <option name="presentableId" value="Default" />
       <updated>1564664670587</updated>
       <workItem from="1564664675271" duration="9054000" />
-      <workItem from="1564800251036" duration="27870000" />
+      <workItem from="1564800251036" duration="43650000" />
     </task>
+    <task id="LOCAL-00001" summary="修改">
+      <created>1564845628865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564845628865</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36924000" />
+    <option name="totallyTimeSpent" value="52704000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="0" width="1512" height="768" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.26004228" visible="true" weight="0.2533512" />
-      <window_info id="Structure" order="1" sideWeight="0.7399577" side_tool="true" weight="0.2533512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.26132405" visible="true" weight="0.25997248" />
+      <window_info id="Structure" order="1" sideWeight="0.73867595" side_tool="true" weight="0.2533512" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -408,13 +472,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34653464" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20754717" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33002833" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33002833" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
@@ -434,208 +498,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/多个构造器参数时考虑用构建器/NutritionFacts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding>
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/多个构造器参数时考虑用构建器/Builder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/多个构造器参数时考虑用构建器/__NutritionFacts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding>
-            <element signature="e#1217#1218#0" expanded="true" />
-            <element signature="e#1269#1270#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/私有构造器或者枚举类型强化Singleton属性/Elvis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="92" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/私有构造器或者枚举类型强化Singleton属性/_Elvis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="92" selection-start-line="4" selection-start-column="92" selection-end-line="4" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/私有构造器或者枚举类型强化Singleton属性/__Elvis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/programs/jdk1.8/src.zip!/java/io/Serializable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2755">
-          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/私有构造器或者枚举类型强化Singleton属性/___Elvis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/私有构造器或者枚举类型强化Singleton属性/lazysingleton/LazySingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="5" selection-start-line="9" selection-start-column="3" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/私有构造器或者枚举类型强化Singleton属性/hungrySingleton/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/通过私有构造器强化不可实列化的能力/Utility.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/避免创建不必要的对象/instruction">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="108" selection-start-line="2" selection-start-column="108" selection-end-line="2" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/避免创建不必要的对象/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#992#993#0" expanded="true" />
-            <element signature="e#1015#1016#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/避免创建不必要的对象/AutoBoxing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/消除过期对象的引用/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/消除过期对象的引用/instruction">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/消除过期对象的引用/WeakHashMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/避免使用终结方法/instruction">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_2-common-method-to-every-object/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_2-common-method-to-every-object/src/main/java/覆盖equals方法必须遵守的约定/instruction">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/私有构造器或者枚举类型强化Singleton属性/lazysingleton/__LazySingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_2-common-method-to-every-object/src/main/java/谨慎覆盖clone/instruction">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="76" selection-start-line="2" selection-start-column="76" selection-end-line="2" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_2-common-method-to-every-object/src/main/java/谨慎覆盖clone/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
-          <folding>
-            <element signature="method#push#0;class#Stack#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_2-common-method-to-every-object/src/main/java/始终要覆盖toString方法/instruction">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_2-common-method-to-every-object/src/main/java/覆盖equals方法时总要覆盖hashcode方法/PhoneNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
@@ -657,17 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/私有构造器或者枚举类型强化Singleton属性/lazysingleton/StaticInnerClassLazySingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -776,13 +632,6 @@
     <entry file="file://$PROJECT_DIR$/_3-class-interface/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/使类和成员的可访问性最小/intruction">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/programs/jdk1.8/src.zip!/java/lang/Boolean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
@@ -840,8 +689,8 @@
     </entry>
     <entry file="jar://D:/programs/jdk1.8/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="1055" column="26" selection-start-line="1055" selection-start-column="26" selection-end-line="1055" selection-end-column="26" />
+        <state relative-caret-position="255">
+          <caret line="1448" column="26" lean-forward="true" selection-start-line="1448" selection-start-column="26" selection-end-line="1448" selection-end-column="26" />
           <folding>
             <element signature="e#32532#32533#0" expanded="true" />
             <element signature="e#32566#32567#0" expanded="true" />
@@ -855,14 +704,37 @@
             <element signature="e#47675#47676#0" expanded="true" />
             <element signature="e#48444#48445#0" expanded="true" />
             <element signature="e#48491#48492#0" expanded="true" />
+            <element signature="e#57650#57651#0" expanded="true" />
+            <element signature="e#57708#57709#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/programs/jdk1.8/src.zip!/java/awt/Dimension.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-376">
+          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/在公有类中使用访问方法而非公有域/TIme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/使类和成员的可访问性最小/intruction">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/使可变性最小化/Complex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="25">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#239#240#0" expanded="true" />
             <element signature="e#264#265#0" expanded="true" />
@@ -882,8 +754,248 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/使可变性最小化/instruction">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="22">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/programs/jdk1.8/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="218" column="19" selection-start-line="218" selection-start-column="19" selection-end-line="218" selection-end-column="19" />
+          <folding>
+            <element signature="e#8064#8065#0" expanded="true" />
+            <element signature="e#8112#8113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/programs/jdk1.8/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="101" column="12" selection-start-line="101" selection-start-column="12" selection-end-line="101" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/复合优先继承/InstrumentedHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/复合优先继承/instruction">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/programs/jdk1.8/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="343" column="19" selection-start-line="343" selection-start-column="16" selection-end-line="343" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/复合优先继承/ForwardingSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#947#948#0" expanded="true" />
+            <element signature="e#1010#1011#0" expanded="true" />
+            <element signature="e#1038#1039#0" expanded="true" />
+            <element signature="e#1101#1102#0" expanded="true" />
+            <element signature="e#1129#1130#0" expanded="true" />
+            <element signature="e#1344#1345#0" expanded="true" />
+            <element signature="e#1369#1370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/复合优先继承/InstrumentedSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" column="68" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="68" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/要么为继承而设计提供文档说明要么紧张继承/instruction">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/接口只用于定义类型/instruction">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/类层次优于标签类/instruction">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/类层次优于标签类/Figure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/类层次优于标签类/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/类层次优于标签类/FigureType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_2-common-method-to-every-object/_2-common-method-to-every-object.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/类层次优于标签类/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_1-create-destory-object/src/main/java/私有构造器或者枚举类型强化Singleton属性/lazysingleton/StaticInnerClassLazySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="52" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="52" />
+          <folding>
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/用函数对象表示策略/StringLengthComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/用函数对象表示策略/Host.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="71" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3-class-interface/src/main/java/优先考虑静态成员类/instruction">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_4-generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/programs/jdk1.8/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="406" column="34" lean-forward="true" selection-start-line="406" selection-start-column="34" selection-end-line="406" selection-end-column="34" />
+          <folding>
+            <element signature="e#13713#13714#0" expanded="true" />
+            <element signature="e#13768#13769#0" expanded="true" />
+            <element signature="e#15110#15140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_4-generic/src/main/java/消除非受检警告/Venery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#218#248#0" expanded="true" />
+            <element signature="e#275#305#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_4-generic/src/main/java/列表优于数组/ArrayListAndArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_4-generic/src/main/java/列表优于数组/instruction">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
         </state>
       </provider>
     </entry>

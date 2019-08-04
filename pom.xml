@@ -12,6 +12,7 @@
         <module>_1-create-destory-object</module>
         <module>_2-common-method-to-every-object</module>
         <module>_3-class-interface</module>
+        <module>_4-generic</module>
     </modules>
 
     <parent>

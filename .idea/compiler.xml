@@ -9,12 +9,14 @@
         <module name="_1-create-destory-object" />
         <module name="_3-class-interface" />
         <module name="_2-common-method-to-every-object" />
+        <module name="_4-generic" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="_1-create-destory-object" target="1.8" />
       <module name="_2-common-method-to-every-object" target="1.8" />
       <module name="_3-class-interface" target="1.8" />
+      <module name="_4-generic" target="1.8" />
       <module name="effective-java-in-springboot" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -23,6 +25,7 @@
       <module name="_1-create-destory-object" options="-parameters" />
       <module name="_2-common-method-to-every-object" options="-parameters" />
       <module name="_3-class-interface" options="-parameters" />
+      <module name="_4-generic" options="-parameters" />
       <module name="effective-java-in-springboot" options="-parameters" />
     </option>
   </component>
